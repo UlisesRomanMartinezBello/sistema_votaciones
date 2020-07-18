@@ -1,0 +1,39 @@
+body {
+    background-color: #C1BDBA;
+}
+
+.card {
+    border: none;    
+}
+
+.list-group-item {
+    background-color: #26343D;
+    color: #ffffff;
+    border: none;
+}
+
+.card-header {
+    background-color: #26343D;
+    color: #ffffff;
+    border: none;
+}
+
+.card-body {
+    background-color: #26343D;
+}
+
+.btn {
+    background-color: #1AB188;
+    color: #ffffff;
+}
+
+.btn:hover {
+    background-color: #435259;
+    color: #ffffff;
+}
+
+.list-group-item:hover {
+    cursor: pointer;
+    background-color: #e4e3e3;
+    color: #26343D;
+}
